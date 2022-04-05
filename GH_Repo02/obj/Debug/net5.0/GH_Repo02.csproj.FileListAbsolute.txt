@@ -5,7 +5,6 @@ C:\Users\fnupra01\source\repos\GH_Repo02\GH_Repo02\bin\Debug\net5.0\GH_Repo02.ru
 C:\Users\fnupra01\source\repos\GH_Repo02\GH_Repo02\bin\Debug\net5.0\GH_Repo02.dll
 C:\Users\fnupra01\source\repos\GH_Repo02\GH_Repo02\bin\Debug\net5.0\ref\GH_Repo02.dll
 C:\Users\fnupra01\source\repos\GH_Repo02\GH_Repo02\bin\Debug\net5.0\GH_Repo02.pdb
-C:\Users\fnupra01\source\repos\GH_Repo02\GH_Repo02\obj\Debug\net5.0\GH_Repo02.csproj.AssemblyReference.cache
 C:\Users\fnupra01\source\repos\GH_Repo02\GH_Repo02\obj\Debug\net5.0\GH_Repo02.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\fnupra01\source\repos\GH_Repo02\GH_Repo02\obj\Debug\net5.0\GH_Repo02.AssemblyInfoInputs.cache
 C:\Users\fnupra01\source\repos\GH_Repo02\GH_Repo02\obj\Debug\net5.0\GH_Repo02.AssemblyInfo.cs
