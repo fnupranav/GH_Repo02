@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GH_Repo02/1.0.0": {
+        "runtime": {
+          "GH_Repo02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GH_Repo02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
